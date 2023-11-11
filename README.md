@@ -18,14 +18,6 @@ This repository contains the implementation of a data science project that focus
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
-
-Explain the goal of the project, the problem statement, and why predicting insurance charges is important. Provide a brief overview of the linear regression approach used for prediction.
-
-## Dataset
-
-Describe the dataset used for training the linear regression model. Include details about the features (independent variables) and the target variable (insurance charges). If possible, provide a link to the dataset.
-
 ## Data Exploration
 
 Explore the dataset to gain insights into its structure, distributions, and relationships between variables. Use visualizations to present key findings.
